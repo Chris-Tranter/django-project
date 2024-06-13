@@ -1,0 +1,1 @@
+web: gunicorn dj-an-go.wsgi
